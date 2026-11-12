@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
+- **Apellido y nombre:** Herterich Paola Soledad
 - **Carrera:** Tecnicatura Superior en Preceptoría
-- **Cohorte / turno:**
-- **Fecha:**
+- **Cohorte / turno:** Mañana
+- **Fecha:** 11/11/2026
